@@ -1,8 +1,9 @@
 # ⚡️ Yefrosynii Kolenko - Software Engineer
-
-📍 **Location:** Tallinn, Estonia  
-🌐 **Website:** [www.yefro.dev](https://www.yefro.dev/)  
-✉️ **Email:** contact@yefro.dev 
+- 📍 **Location:** Tallinn, Estonia
+- 🌐 **Website:** [www.yefro.dev](https://www.yefro.dev/)
+- ✉️ **Email:** contact@yefro.dev
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=efroostrf&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 ---
 
