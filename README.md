@@ -81,4 +81,19 @@ I love building systems that scale. I enjoy designing fast, reliable and secure 
 </table>
 
 ## 💻 Statistics
-![Github stats](https://github-readme-stats-yswe.vercel.app/api?username=yefrosynii-piar&show_icons=false&disable_animations=true&rank_icon=github&custom_title=Piar-OU&hide=stars,issues) ![Github stats](https://github-readme-stats-nine-omega-53.vercel.app/api?username=efroostrf&show_icons=false&disable_animations=true&rank_icon=github&custom_title=Personal&hide=stars,issues)
+<table>
+  <thead>
+    <tr border: none;>
+      <td><b>Piar OU</b></td>
+      <td><b>Personal</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github-readme-stats-yswe.vercel.app/api?username=yefrosynii-piar&show_icons=false&disable_animations=true&rank_icon=github&hide_title=true&hide=stars,issues&hide_border=true" /></td>
+      <td><img src="https://github-readme-stats-nine-omega-53.vercel.app/api?username=efroostrf&show_icons=false&disable_animations=true&rank_icon=github&hide_title=true&hide=stars,issues&hide_border=true" /></td>
+    </tr>
+  </tbody>
+</table>
+
+
